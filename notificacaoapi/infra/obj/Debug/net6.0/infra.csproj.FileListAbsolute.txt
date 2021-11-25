@@ -1,0 +1,15 @@
+/home/guilherme/azure-function/api/notificacaoapi/infra/bin/Debug/net6.0/infra.deps.json
+/home/guilherme/azure-function/api/notificacaoapi/infra/bin/Debug/net6.0/infra.runtimeconfig.json
+/home/guilherme/azure-function/api/notificacaoapi/infra/bin/Debug/net6.0/infra.dll
+/home/guilherme/azure-function/api/notificacaoapi/infra/bin/Debug/net6.0/ref/infra.dll
+/home/guilherme/azure-function/api/notificacaoapi/infra/bin/Debug/net6.0/infra.pdb
+/home/guilherme/azure-function/api/notificacaoapi/infra/bin/Debug/net6.0/domain.dll
+/home/guilherme/azure-function/api/notificacaoapi/infra/bin/Debug/net6.0/domain.pdb
+/home/guilherme/azure-function/api/notificacaoapi/infra/obj/Debug/net6.0/infra.csproj.AssemblyReference.cache
+/home/guilherme/azure-function/api/notificacaoapi/infra/obj/Debug/net6.0/infra.GeneratedMSBuildEditorConfig.editorconfig
+/home/guilherme/azure-function/api/notificacaoapi/infra/obj/Debug/net6.0/infra.csproj.CoreCompileInputs.cache
+/home/guilherme/azure-function/api/notificacaoapi/infra/obj/Debug/net6.0/infra.csproj.CopyComplete
+/home/guilherme/azure-function/api/notificacaoapi/infra/obj/Debug/net6.0/infra.dll
+/home/guilherme/azure-function/api/notificacaoapi/infra/obj/Debug/net6.0/ref/infra.dll
+/home/guilherme/azure-function/api/notificacaoapi/infra/obj/Debug/net6.0/infra.pdb
+/home/guilherme/azure-function/api/notificacaoapi/infra/obj/Debug/net6.0/infra.genruntimeconfig.cache

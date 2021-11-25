@@ -1,0 +1,10 @@
+/home/guilherme/azure-function/api/notificacaoapi/domain/bin/Debug/net6.0/domain.deps.json
+/home/guilherme/azure-function/api/notificacaoapi/domain/bin/Debug/net6.0/domain.dll
+/home/guilherme/azure-function/api/notificacaoapi/domain/bin/Debug/net6.0/ref/domain.dll
+/home/guilherme/azure-function/api/notificacaoapi/domain/bin/Debug/net6.0/domain.pdb
+/home/guilherme/azure-function/api/notificacaoapi/domain/obj/Debug/net6.0/domain.csproj.AssemblyReference.cache
+/home/guilherme/azure-function/api/notificacaoapi/domain/obj/Debug/net6.0/domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/guilherme/azure-function/api/notificacaoapi/domain/obj/Debug/net6.0/domain.csproj.CoreCompileInputs.cache
+/home/guilherme/azure-function/api/notificacaoapi/domain/obj/Debug/net6.0/domain.dll
+/home/guilherme/azure-function/api/notificacaoapi/domain/obj/Debug/net6.0/ref/domain.dll
+/home/guilherme/azure-function/api/notificacaoapi/domain/obj/Debug/net6.0/domain.pdb
