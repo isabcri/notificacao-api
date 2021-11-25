@@ -8,7 +8,7 @@ using notificacaoapi.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
-string connectionString = "Server=localhost;Database=CasaRepouso;User=sa;Password=Jesus170418;MultipleActiveResultSets=true";
+string connectionString = "";
 
 builder.Services.AddDbContext<NotificacaoContext>(options => options
 .UseSqlServer(connectionString));
